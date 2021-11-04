@@ -8,7 +8,7 @@ We Only Work mainly on unity games and will slowly transition into new games
 We Want to make as many cheats or Hack Clients for anyone to use in a unity game 
 
 # Current Projects
-VRChat
+VRChat,
 CrabGame
 
 # Current Developers

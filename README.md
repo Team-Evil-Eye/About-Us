@@ -10,7 +10,6 @@ We Want to make as many cheats or Hack Clients for anyone to use in a unity game
 # Current Projects
 VRChat
 CrabGame
-Unturned
 
 # Current Developers
 Literal

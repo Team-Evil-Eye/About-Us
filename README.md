@@ -13,8 +13,8 @@ CrabGame
 Unturned
 
 # Current Developers
--Literal
--Zielaz
--Four_DJ
--PandaStudios
--Potentially Another Person (Waiting for response)
+Literal
+Zielaz
+Four_DJ
+PandaStudios
+Potentially Another Person (Waiting for response)
